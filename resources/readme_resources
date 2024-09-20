@@ -1,0 +1,11 @@
+**Snake Game - Resources Used**
+This project uses several resources to enhance the gameplay experience, including images for the background and the apple. Below is a description of each resource used in the project:
+
+1. background.jpg
+
+Location: resources/background.jpg
+Usage: This image is used as the background of the game window to give a more visually appealing experience. It is loaded and rendered in the main game loop.
+2. apple.jpg
+
+Location: resources/apple.jpg
+Usage: This image represents the apple that the snake must consume to grow. It is loaded into the game as a block that appears at random positions on the game window.
